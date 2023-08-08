@@ -1,0 +1,53 @@
+- title: Talks
+  type: time_table
+  contents:
+
+    - title: Geometry and arithmetic of components of Hurwitz spaces <a href="https://lebarde.alwaysdata.net/phdyears/soutenance.pdf">[→ slides]</a>
+      institution: Université de Lille
+      year: Jul 2023
+      description:
+        PhD Defense
+
+    - title: Une forme faible de divisibilité dans les anneaux non-commutatifs
+      institution: Université d'Artois, Lens
+      year: Jan 2023
+      description:
+        Séminaire d'Algèbre de la faculté Jean Perrin
+
+    - title: Raconte-moi le problème de Galois inverse !
+      institution: École Normale Supérieure, Paris
+      year: Dec 2022
+      description:
+         <a href="https://www.math.ens.psl.eu/~tholozan/raconte_moi.html">
+            Séminaire Raconte-moi
+          </a>
+
+    - title: Geometric methods for inverse Galois theory <a href="https://lebarde.alwaysdata.net/phdyears/slides_kyoto22.pdf">[→ slides]</a>
+      institution: RIMS Kyōto
+      year: Nov 2022
+      description:
+        - <a href="https://www.kurims.kyoto-u.ac.jp/~yuyang/confer/Kyoto-Nanjing-4th.html">
+            4th Kyōto-Nanjing Workshop on Arithmetic and Geometry
+          </a>
+
+    - title: Counting Field Extensions with Hurwitz Spaces
+      institution: École Normale Supérieure, Paris
+      year: Oct 2022
+      description:
+        - Annual meeting of the Mathematics Department
+
+    - title: Covers and the Inverse Galois Problem
+      institution: Institut Fourier, Grenoble
+      year: Oct 2022
+      description:
+        - <a href="https://www-fourier.ujf-grenoble.fr/?q=fr/content/b%C3%A9ranger-seguin">
+            Séminaire Compréhensible
+          </a>
+
+    - title: Rings of Components of Hurwitz Spaces <a href="https://lebarde.alwaysdata.net/phdyears/slides_lille22.pdf">[→ slides]</a>
+      institution: University of Lille
+      year: May 2022
+      description:
+        - <a href="https://www.mathconf.org/polyar2022">
+            Polynomials and Arithmetic
+          </a>
